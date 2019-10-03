@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcumaigh.arfeo.net/sitemap.xml
